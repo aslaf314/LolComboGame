@@ -1,5 +1,6 @@
 # LOL Combo Game
-Projekt prostej gry okienkowej zaimplementowanej w języku C++ . Gra ma na celu jak najszybsze wprowadzenie odpowiedniej kombinacji klawiszy używanych w grze League of Legends oraz precyzyjne kliki myszką. Do wyświetlania oraz obsługi zdarzeń użyłem biblioteki SFML2.0
+
+Projekt prostej gry okienkowej zaimplementowanej w języku C++. Gra ma na celu jak najszybsze wprowadzenie odpowiedniej kombinacji klawiszy używanych w grze League of Legends oraz precyzyjne kliki myszką. W programie posłużyłem się biblioteką SFML 2.0.
 
 ## Przebieg gry:
 * Aktywny kafelek wskazuje  oczekiwany input.
